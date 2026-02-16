@@ -1,0 +1,31 @@
+{
+  "id": "wedding-app-arjun-meera-v2",
+  "name": "Arjun & Meera Wedding",
+  "short_name": "A&M Wedding",
+  "description": "Bespoke digital wedding invitation with AI Concierge.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f0f7ff",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+  {
+    "src": "/icons/icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "/icons/icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  },
+  {
+    "src": "/icons/maskable-512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable"
+  }
+]
+
+}

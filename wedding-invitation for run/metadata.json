@@ -1,0 +1,8 @@
+{
+  "name": " Wedding Invitation",
+  "description": "A bespoke digital wedding invitation for Arjun & Meera, featuring an AI concierge and interactive guest experience.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
