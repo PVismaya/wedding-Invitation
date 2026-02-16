@@ -11,13 +11,11 @@
 I am an enthusiastic AI & Data Science student with strong interest in building intelligent systems that solve real-world problems.  
 I enjoy working on Machine Learning models, NLP applications, and AI-powered web applications.  
 
-I believe in learning by building 🚀
+I believe in learning by building 
 
 ---
 
-## 💻 Technical Skills  
-
-### 👩‍💻 Programming
+### Programming Languages
 - Python  
 - SQL  
 - Basics of Java
