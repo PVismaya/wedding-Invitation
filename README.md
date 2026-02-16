@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me  
+## About Me  
 
 I am an enthusiastic AI & Data Science student with strong interest in building intelligent systems that solve real-world problems.  
 I enjoy working on Machine Learning models, NLP applications, and AI-powered web applications.  
@@ -25,7 +25,7 @@ I believe in learning by building 🚀
 - HTML
 - CSS
 
-### 🤖 AI / ML
+###  AI / ML
 - Machine Learning  
 - Natural Language Processing (NLP)  
 - Pandas & NumPy  
@@ -47,7 +47,7 @@ for diverse guests
  
 ---
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 
 - Deep Learning  
 - Generative AI  
@@ -56,10 +56,10 @@ for diverse guests
 
 ---
 
-## 🎯 Career Goal  
+##  Career Goal  
 
 To become a skilled AI Engineer and contribute to impactful AI-driven solutions in real-world industries.
 
 ---
 
-⭐ *“Consistency and curiosity are the keys to growth.”*
+ *“Consistency and curiosity are the keys to growth.”*
